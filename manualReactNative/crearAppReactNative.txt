@@ -1,0 +1,16 @@
+https://docs.expo.dev/get-started/create-a-project/
+
+npx create-expo-app@latest ./ --template blank-typescript
+
+
+npm start
+
+a
+
+movil-  conectar wifi casa
+	app "expo go" scannear QR 
+
+opciones:
+npm run android
+npm run ios # you need to use macOS to build the iOS project - use the Expo app if you need to do iOS development without a Mac
+npm run web
